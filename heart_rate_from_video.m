@@ -1,5 +1,5 @@
-dataDir = 'C:\Users\Aaron\Documents\Develop\Matlab\videos';
-resultsDir = 'C:\Users\Aaron\Documents\Develop\Matlab\results';
+dataDir = 'C:\Users\Mukilan\Documents\Develop\Matlab\videos';
+resultsDir = 'C:\Users\Mukilan\Documents\Develop\Matlab\results';
 inFile = fullfile(dataDir,'face_edited.mp4');
 vidFile = inFile;
 vid = VideoReader(vidFile);
